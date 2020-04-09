@@ -23,6 +23,8 @@
     },
     "homepage": "https://github.com/rospirski/Metin2-Utils#readme",
     "dependencies": {
+        "moment": "^2.24.0",
+        "uuid": "^7.0.3",
         "validator": "^13.0.0"
     }
 }
