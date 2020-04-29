@@ -1,6 +1,6 @@
 {
     "name": "@rospirski/metin2-utils",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Metin2 utils tools",
     "main": "index.js",
     "scripts": {
